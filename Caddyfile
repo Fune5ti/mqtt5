@@ -1,3 +1,7 @@
 mqtt.danielpires.tech {
         reverse_proxy mqtt5:8883
 }
+
+personal-testing-mosquitto-xnufq9-928c73-64-226-85-242.traefik.me {
+        reverse_proxy mqtt5:8883
+}
