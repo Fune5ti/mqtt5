@@ -1,0 +1,3 @@
+mqtt.danielpires.cv {
+        reverse_proxy mqtt5:8883
+}
